@@ -1,0 +1,6 @@
+{
+  "name": "PackPal",
+  "description": "Smart travel packing companion with climate-tailored terrain guides, interactive packing list tracking, progress visualizers, and AI-assisted item generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
